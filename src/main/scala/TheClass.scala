@@ -3,7 +3,7 @@ package com.gerdriesselmann.sbttest
 import actors.Actor
 
 object TheClass extends Actor {
-  start();
+ // start();
 
   def act() {
     loop {
