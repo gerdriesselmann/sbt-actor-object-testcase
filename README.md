@@ -9,4 +9,5 @@ Try it by doing
 
     sbt test
 
+There is also a sbt 0.7 build, that demonstrates it worked before. Change sbt-version in file project/build.properties to 0.7.4 and invoke tests with sbt 0.7
 
